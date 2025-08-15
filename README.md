@@ -4,7 +4,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <!-- <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjljNXUxemVncWRjd3ozeTNta3F2aWs3bGd1YjN6bzcxZzRxa2s4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width = 200px></picture> -->
 
-<h2>About me</h2>
+<picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVqdGVxNmM5ZTJ1a3U5dDJucDhxZG03cGZrY3B5cDRnN3dyMDhqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kDXf683QhH07VFQelQ/giphy.gif" width="30px"></picture>&nbsp;<span style="font-size:24px;"><b>About me</b></span>
 
 I'm fascinated by web design and interface creation. I enjoy transforming concepts into visual experiences that are both engaging and intuitive.
 - I'm interested in web development, UX/UI and graphic design.
