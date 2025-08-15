@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eduardo Garcia</h1>
 <h2 align="center"><i>Frontend Developer</i></h2>
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<!-- <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjljNXUxemVncWRjd3ozeTNta3F2aWs3bGd1YjN6bzcxZzRxa2s4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width = 200px></picture> -->
 
 <h2>About me</h2>
 
