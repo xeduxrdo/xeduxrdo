@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eduardo Garcia</h1>
 <h2 align="center"><i>Frontend Developer</i></h2>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<h3>About me</h3>
+
+<h2>About me</h2>
 
 I'm fascinated by web design and interface creation. I enjoy transforming concepts into visual experiences that are both engaging and intuitive.
 - I'm interested in web development, UX/UI and graphic design.
@@ -9,7 +10,7 @@ I'm fascinated by web design and interface creation. I enjoy transforming concep
   - React
 - Outside of technology, ⚽ I love playing soccer, 💪 Going to the gym, 🎵 Listening to music, 🍿 Watching movies and TV shows.
 
-## My Skills Include
+<h2>My Skills Include</h2>
 
 <h4> Languages </h4>
 <span> 
